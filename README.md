@@ -21,7 +21,7 @@ License
 Apache 2
 
 
-QBit philosiphy:
+QBit philosophy:
 ====
 At the end of the day QBit is a simpley library not a framework. 
 Your app is not a QBit app but a Java app that uses the QBit lib.
